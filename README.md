@@ -2,13 +2,7 @@
 
 Welcome to my portfolio website! This site showcases my skills and projects as a Freelance Fullstack Developer. Built using Next.js, this portfolio is designed to highlight my expertise in web development and provide potential clients and employers with insights into my capabilities.
 
-[![Portfolio Website](\KLDCodeX\public\desktop.png)](https://example.com)
-
-[![Portfolio Website](\KLDCodeX\public\phone.png)](https://example.com)
-
-[![Portfolio Website](\KLDCodeX\public\whole.png)](https://example.com)
-
-
+[![Portfolio Website](https://raw.githubusercontent.com/khalidhersi/KLDCodeX-Portfolio/master/public/desktop.png)]
 
 ## Features
 
@@ -52,3 +46,8 @@ This project is licensed under the [MIT License](LICENSE).
 - **GitHub:** [Your GitHub Profile](https://github.com/khalidhersi)
 
 Thank you for visiting my portfolio! 😊
+
+
+[![Portfolio Website](https://raw.githubusercontent.com/khalidhersi/KLDCodeX-Portfolio/master/public/whole.png)]
+
+[![Portfolio Website](https://raw.githubusercontent.com/khalidhersi/KLDCodeX-Portfolio/master/public/phone.png)]
