@@ -34,7 +34,7 @@ function AboutSection() {
             width={300}
             height={380}
             alt="Portfolio"
-            className="rounded-lg animate-bounce w-1/2 h-full cursor-pointer"
+            className="rounded-lg animate-bounce w-auto h-auto cursor-pointer"
           />
         </div>
       </div>
