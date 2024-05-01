@@ -1,6 +1,5 @@
 export const skillsData = [
   'MySQL',
-  'Git',
   'Azure',
   'Bootstrap',
   'HTML',
@@ -10,9 +9,8 @@ export const skillsData = [
   'React',
   'Java',
   'C#',
-  'Node JS',
+  'git',
   'Next JS',
-  '.Net',
   'Figma',
   'Firebase',
   'Unity',
