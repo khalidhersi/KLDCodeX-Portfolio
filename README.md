@@ -1,6 +1,6 @@
 # KLDCodeX's Portfolio
 
-Welcome to my portfolio website! This site showcases my skills and projects as a Freelance Fullstack Developer. Built using Next.js, this portfolio is designed to highlight my expertise in web development and provide potential clients and employers with insights into my capabilities.
+Welcome to my portfolio website! This site showcases my skills and projects as a Freelance Full Stack Developer. Built using Next.js, this portfolio is designed to highlight my expertise in web development and provide potential clients and employers with insights into my capabilities.
 
 [![Portfolio Website](https://raw.githubusercontent.com/khalidhersi/KLDCodeX-Portfolio/master/public/desktop.png)]
 
@@ -8,7 +8,7 @@ Welcome to my portfolio website! This site showcases my skills and projects as a
 
 - **Responsive Design:** The portfolio is optimized for various screen sizes and devices, ensuring a seamless browsing experience across desktop, tablet, and mobile.
 - **Project Showcase:** Browse through my showcased projects to see examples of my work in action. Each project includes details such as technologies used, descriptions, and live demos or GitHub repositories.
-- **About Me:** Learn more about me, my background, and my skills as a Fullstack Developer.
+- **About Me:** Learn more about me, my background, and my skills as a Full Stack Developer.
 - **Contact:** Easily reach out to me via the provided contact form or through my social media profiles.
 - **Technologies Used:** This portfolio website is built using Next.js, a powerful React framework that allows for server-side rendering, static site generation, and other advanced features. It utilizes modern web technologies such as HTML5, CSS3, and JavaScript.
 
