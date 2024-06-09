@@ -12,8 +12,8 @@ export const metadata = {
   icons: {
     icon: './favicon.ico', // /public path
   },
-  title: 'Portfolio of KLD CodeX - Software Developer',
-  description: 'This is the portfolio of KLD CodeX. I am a Full Stack Developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
+  title: 'KLD CodeX Freelance Dev',
+  description: 'Welcome to KLD CodeX, Im a Freelance Dev ready to help create, maintain and improve your Website.',
 };
 
 export default function RootLayout({ children }) {
